@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Background*
 
-Submitted by: **Your Name Here**
+Submitted by: **ColorSwap**
 
-**Name of your app** is an app that... [TODO] 
+**ColorSwap** is an app that changes the background of your app to a random color. 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -29,9 +29,13 @@ The following **required** functionality is completed:
 
 Describe any challenges encountered while building the app.
 
+Challenges:
+ - It was difficult to download and navigate through xCode.
+ - Connecting to GitHub and uploading the changes was a lot of work and took some time to figure out.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Yash Thakkar]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
