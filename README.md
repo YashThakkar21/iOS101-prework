@@ -1,6 +1,6 @@
-# Prework - *Background*
+# Prework - *ColorSwap*
 
-Submitted by: **ColorSwap**
+Submitted by: **Yash Thakkar**
 
 **ColorSwap** is an app that changes the background of your app to a random color. 
 
