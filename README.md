@@ -25,6 +25,18 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+Snapchat:
+  - Customizing your avatar using bitmoji.
+  - Deletes the text messages after viewing them.
+
+YouTube:
+  - Ability to pick the speed of the video upto 2x.
+  - The like and dislike button which gives power to the user to rate the video.
+
+Spotify:
+   - To read the lyrics in sync with the song.
+   - To watch the podcast in video format based on user preference.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
